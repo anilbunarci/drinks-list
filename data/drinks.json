@@ -1,0 +1,1205 @@
+{
+  "drinks": [
+    {
+      "name": "MALFY CİN TÜM ÇEŞİTLERİ 75 CL",
+      "price": "1100",
+      "discountPrice": "725",
+      "category": "CİN"
+    },
+    {
+      "name": "BOMBAY CİN 70 CL",
+      "price": "899",
+      "discountPrice": "630",
+      "category": "CİN"
+    },
+    {
+      "name": "BEEFEATER 70 CL",
+      "price": "680",
+      "discountPrice": "505",
+      "category": "CİN"
+    },
+    {
+      "name": "MARLBOROUGH CİN 100 CL",
+      "price": "975",
+      "discountPrice": "610",
+      "category": "CİN"
+    },
+    {
+      "name": "GORDON CIN 100 CL",
+      "price": "859",
+      "discountPrice": "695",
+      "category": "CİN"
+    },
+    {
+      "name": "GORDONS CİN 70  CL",
+      "price": "615",
+      "discountPrice": "485",
+      "category": "CİN"
+    },
+    {
+      "name": "GORDONS PİNK 70 CL",
+      "price": "625",
+      "discountPrice": "525",
+      "category": "CİN"
+    },
+    {
+      "name": "GORDON LİMON 70 CL",
+      "price": "625",
+      "discountPrice": "525",
+      "category": "CİN"
+    },
+    {
+      "name": "GILBEYS CİN 100 CL",
+      "price": "645",
+      "discountPrice": "585",
+      "category": "CİN"
+    },
+    {
+      "name": "GILBEYS CİN 70 CL",
+      "price": "459",
+      "discountPrice": "420",
+      "category": "CİN"
+    },
+    {
+      "name": "FORDS CİN 70 CL",
+      "price": "1000",
+      "discountPrice": "785",
+      "category": "CİN"
+    },
+    {
+      "name": "TANQUERAY DRY GIN 70 CL",
+      "price": "819",
+      "discountPrice": "725",
+      "category": "CİN"
+    },
+    {
+      "name": "TANQUERAY TEN GIN 70 CL",
+      "price": "1225",
+      "discountPrice": "945",
+      "category": "CİN"
+    },
+    {
+      "name": "CIN ADALIN 70 CL",
+      "price": "299",
+      "discountPrice": "275",
+      "category": "CİN"
+    },
+    {
+      "name": "GIBSONS GIN 70 CL",
+      "price": "500",
+      "discountPrice": "425",
+      "category": "CİN"
+    },
+    {
+      "name": "GREENALLS THE ORİGİNAL CİN 70 CL",
+      "price": "695",
+      "discountPrice": "525",
+      "category": "CİN"
+    },
+    {
+      "name": "GREENALLS BLUEBERRY  CİN 70 CL",
+      "price": "695",
+      "discountPrice": "525",
+      "category": "CİN"
+    },
+    {
+      "name": "GREENALLS WİLDBERRY CİN 70 CL",
+      "price": "695",
+      "discountPrice": "575",
+      "category": "CİN"
+    },
+    {
+      "name": "JW RED LABEL 150 CL",
+      "price": "1450",
+      "discountPrice": "1160",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JW RED LABEL 100 CL",
+      "price": "945",
+      "discountPrice": "749",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JW RED LABEL 70 CL",
+      "price": "675",
+      "discountPrice": "535",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JB RARE WHISKY 100 CL",
+      "price": "839",
+      "discountPrice": "699",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JB RARE WHISKY 70 CL",
+      "price": "599",
+      "discountPrice": "499",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JW DOUBLE BLACK WHISKY 70 CL",
+      "price": "1150",
+      "discountPrice": "865",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JW BLACK LABEL 100 CL",
+      "price": "1250",
+      "discountPrice": "960",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JW BLACK LABEL 70 CL",
+      "price": "890",
+      "discountPrice": "675",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "BELLS 100 CL",
+      "price": "819",
+      "discountPrice": "695",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "BELLS 70 CL",
+      "price": "579",
+      "discountPrice": "485",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "GENTLEMAN JACK 70 CL",
+      "price": "935",
+      "discountPrice": "775",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JACK DANiELS 100 CL",
+      "price": "1200",
+      "discountPrice": "945",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JACK DANİELS 70 CL",
+      "price": "850",
+      "discountPrice": "675",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "BALLANTINES 100 CL",
+      "price": "945",
+      "discountPrice": "735",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "BALLANTINES 70 CL",
+      "price": "675",
+      "discountPrice": "535",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "FAMOUS GROUSE VİSKİ 100 CL",
+      "price": "945",
+      "discountPrice": "735",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JIM BEAM 100 CL",
+      "price": "1100",
+      "discountPrice": "865",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JIM BEAM 70 CL",
+      "price": "780",
+      "discountPrice": "580",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JIM BEAM HONEY 70 CL",
+      "price": "780",
+      "discountPrice": "595",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JIM BEAM APPLE 70 CL",
+      "price": "780",
+      "discountPrice": "595",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JIM BEAM RED STAG 70 CL",
+      "price": "780",
+      "discountPrice": "595",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "LONG JOHN 100 CL",
+      "price": "825",
+      "discountPrice": "649",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "LONG JOHN 70 CL",
+      "price": "580",
+      "discountPrice": "480",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "CHIVAS REGAL 18 YILLIK 70 CL",
+      "price": "2150",
+      "discountPrice": "1790",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "TALİSKER WHISKY 70 CL",
+      "price": "1600",
+      "discountPrice": "1365",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JW AGED 18 YO WHISKY 70 CL",
+      "price": "2025",
+      "discountPrice": "1690",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "JW GOLD LABEL RESERVE 70 CL",
+      "price": "1400",
+      "discountPrice": "1150",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "SINGLETON SINGLE MALT 70 CL",
+      "price": "1000",
+      "discountPrice": "795",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "DIMPLE GOLDEN SELECTION WHISKY 70CL",
+      "price": "699",
+      "discountPrice": "565",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "WHITE MACKAY 100 CL",
+      "price": "925",
+      "discountPrice": "695",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "WHITE MACKAY 70 CL",
+      "price": "660",
+      "discountPrice": "499",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "TAMNAVULIN DOUBLE CASK 70 CL",
+      "price": "1050",
+      "discountPrice": "865",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "TAMNAVULIN SHERRY CASK 70 CL",
+      "price": "1050",
+      "discountPrice": "865",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "TAMNAVULIN RED WINE CASK 70 CL",
+      "price": "1050",
+      "discountPrice": "865",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "PASSPORT 100 CL",
+      "price": "815",
+      "discountPrice": "695",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "PASSPORT 70 CL",
+      "price": "575",
+      "discountPrice": "490",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "NAKED GROUSE 70 CL",
+      "price": "1100",
+      "discountPrice": "745",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "MONKEY SHOULDER 70 CL",
+      "price": "1000",
+      "discountPrice": "880",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "KAVALAN SELECT NO 2 VİSKİ 70 CL",
+      "price": "2650",
+      "discountPrice": "1750",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "KAVALAN SINGLE MALT VİSKİ 70 CL",
+      "price": "2650",
+      "discountPrice": "1750",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "KAVALAN KING CASK FINISH VİSKİ 70 CL",
+      "price": "3750",
+      "discountPrice": "2800",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "KAVALAN PORT CASK FINISH VİSKİ70 CL",
+      "price": "2550",
+      "discountPrice": "1650",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "TEELİNG STOUT CASK VİSKİ 70 CL",
+      "price": "1475",
+      "discountPrice": "990",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "TEELİNG SINGLE MALT VİSKİ 70 CL",
+      "price": "1650",
+      "discountPrice": "1150",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "TEELİNG SMALL BATCH VİSKİ 70 CL",
+      "price": "1350",
+      "discountPrice": "850",
+      "category": "VİSKİ"
+    },
+    {
+      "name": "GREY GOOSE VOTKA 70 CL",
+      "price": "1850",
+      "discountPrice": "1095",
+      "category": "VOTKA"
+    },
+    {
+      "name": "ABSOLUT ELYX VOTKA 70 CL",
+      "price": "1475",
+      "discountPrice": "790",
+      "category": "VOTKA"
+    },
+    {
+      "name": "ABSOLUT  VOTKA 100 CL",
+      "price": "865",
+      "discountPrice": "745",
+      "category": "VOTKA"
+    },
+    {
+      "name": "ABSOLUT VOTKA 70 CL",
+      "price": "625",
+      "discountPrice": "495",
+      "category": "VOTKA"
+    },
+    {
+      "name": "GILBEYS VOTKA 100 CL",
+      "price": "635",
+      "discountPrice": "555",
+      "category": "VOTKA"
+    },
+    {
+      "name": "GILBEYS VOTKA 70 CL",
+      "price": "459",
+      "discountPrice": "405",
+      "category": "VOTKA"
+    },
+    {
+      "name": "SMIRNOFF VOTKA 100 CL",
+      "price": "765",
+      "discountPrice": "625",
+      "category": "VOTKA"
+    },
+    {
+      "name": "SMIRNOFF VOTKA 70 CL",
+      "price": "559",
+      "discountPrice": "465",
+      "category": "VOTKA"
+    },
+    {
+      "name": "SMIRNOFF NORT 70 CL",
+      "price": "485",
+      "discountPrice": "405",
+      "category": "VOTKA"
+    },
+    {
+      "name": "SMIRNOFF GREEN APPLE VODKA 70 CL",
+      "price": "549",
+      "discountPrice": "465",
+      "category": "VOTKA"
+    },
+    {
+      "name": "ISTANBLUE NEW BLUE VOTKA 100 CL",
+      "price": "609",
+      "discountPrice": "539",
+      "category": "VOTKA"
+    },
+    {
+      "name": "ISTANBLUE NEW BLUE VOTKA 70  CL",
+      "price": "439",
+      "discountPrice": "390",
+      "category": "VOTKA"
+    },
+    {
+      "name": "BAZUKA VOTKA 100 CL",
+      "price": "575",
+      "discountPrice": "535",
+      "category": "VOTKA"
+    },
+    {
+      "name": "BAZUKA VOTKA 70 CL",
+      "price": "410",
+      "discountPrice": "380",
+      "category": "VOTKA"
+    },
+    {
+      "name": "STOLICHNAYA VOTKA 100 CL",
+      "price": "895",
+      "discountPrice": "775",
+      "category": "VOTKA"
+    },
+    {
+      "name": "KETEL ONE 70 CL",
+      "price": "1025",
+      "discountPrice": "750",
+      "category": "VOTKA"
+    },
+    {
+      "name": "İSABEY ÖKÜZGÖZÜ SYRH AÖ 75 CL",
+      "price": "235",
+      "discountPrice": "99,5",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "İSABEY SYRH ÇALKARASI ROSE AÖ 75 CL",
+      "price": "235",
+      "discountPrice": "99,5",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "İSABEY BOGAZKERE MERLOT AÖ 75 CL",
+      "price": "235",
+      "discountPrice": "99,5",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "İSABEY EMİR CHARDONNAY AÖ 75 CL",
+      "price": "235",
+      "discountPrice": "99,5",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "İSABEY NARİNCE SAUVİGNON BLANC AÖ ",
+      "price": "235",
+      "discountPrice": "99,5",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "SEVİLEN İSABEY BEYAZ 75 CL",
+      "price": "245",
+      "discountPrice": "105",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "SEVİLEN İSABEY KIRMIZI  75 CL",
+      "price": "245",
+      "discountPrice": "105",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "SEVİLEN İSABEY ROSE 75 CL",
+      "price": "245",
+      "discountPrice": "105",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "ANGORA KIRMIZI 75 CL",
+      "price": "275",
+      "discountPrice": "149",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "ANGORA BEYAZ 75 CL",
+      "price": "275",
+      "discountPrice": "149",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "ANGORA ROSE 75 CL",
+      "price": "275",
+      "discountPrice": "149",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "ÇANKAYA BEYAZ 75 CL",
+      "price": "375",
+      "discountPrice": "249",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "YAKUT KIRMIZI 75 CL",
+      "price": "395",
+      "discountPrice": "225",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "MAJESTİK ÇEŞİTLERİ 75 CL",
+      "price": "245",
+      "discountPrice": "115",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "SENFONİ ÇEŞİTLERİ 75 CL",
+      "price": "265",
+      "discountPrice": "149",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "TRİO ŞARAP ÇEŞİTLERİ 75 CL",
+      "price": "295",
+      "discountPrice": "165",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "SELENDİ BEYOBA SAUVİGNON BLA 75 C",
+      "price": "325",
+      "discountPrice": "139",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "SELENDİ BEYOBA CABERNET 75 C",
+      "price": "195",
+      "discountPrice": "139",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "SELENDİ BEYOBA MERLOT SHIRAZ 75 CL",
+      "price": "195",
+      "discountPrice": "139",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "ZEUS DORNFELDER RESERVE 75 CL",
+      "price": "329",
+      "discountPrice": "159",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "SUVLA KİLİTBAHİR NARİNCE EMİR 75 CL",
+      "price": "199",
+      "discountPrice": "139",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "SUVLA ROSE KAV 75 CL",
+      "price": "195",
+      "discountPrice": "139",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "ANFORA ÇEŞİTLERİ 75 CL",
+      "price": "365",
+      "discountPrice": "220",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "CHATEAU NOBLES 75 CL",
+      "price": "320",
+      "discountPrice": "155",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "LAMBERTİ BLUSH 75 CL",
+      "price": "319",
+      "discountPrice": "199",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "MATEUS ROSE BLUSH 75 CL",
+      "price": "375",
+      "discountPrice": "249",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "MATEUS ROSE BLUSH 25  CL",
+      "price": "215",
+      "discountPrice": "95",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "AYDIN PRODOM 3 LÜ KUPAJ 75 CL",
+      "price": "825",
+      "discountPrice": "495",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "CHAMLIJA NEVİ ŞAHSINA MÜNHASIR ",
+      "price": "1000",
+      "discountPrice": "795",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "KÜP EPİC TÜM ÇEŞİTLERİ 75 CL",
+      "price": "885",
+      "discountPrice": "425",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "GORDON MUMM ICE ŞAMPANYA 75 CL",
+      "price": "3150",
+      "discountPrice": "1350",
+      "category": "ŞAMPANYA"
+    },
+    {
+      "name": "MARENGO BRUT ŞAMPANYA 75 CL",
+      "price": "420",
+      "discountPrice": "265",
+      "category": "ŞAMPANYA"
+    },
+    {
+      "name": "MARENGO ROSE ŞAMPANYA 75 CL",
+      "price": "450",
+      "discountPrice": "295",
+      "category": "ŞAMPANYA"
+    },
+    {
+      "name": "DİREN ŞARAP ÇEŞİTLERİ 75 CL",
+      "price": "295",
+      "discountPrice": "139",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "İDOL UGNİ BLANC CHARDONNAY 75 CL",
+      "price": "295",
+      "discountPrice": "135",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "İDOL CABERNET SAUVİGNON BLANC 75",
+      "price": "295",
+      "discountPrice": "135",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "GREEN LEE 100 CL TÜM ÇEŞİTLERİ ",
+      "price": "315",
+      "discountPrice": "169",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "ASMADAN KAYALITEPE KIRMIZI 75 CL",
+      "price": "310",
+      "discountPrice": "149",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "PAMUKKALE ARTI ŞARAP ÇEŞİTLERİ 75 CL",
+      "price": "545",
+      "discountPrice": "325",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "ARTEMİS ŞARAP ÇEŞİTLERİ 75 CL",
+      "price": "479",
+      "discountPrice": "349",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "BEŞİBİRYERDE ŞARAP ÇEŞİTLERİ 75 CL",
+      "price": "289",
+      "discountPrice": "129",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "KÜP RİTÜEL ŞARAP ÇEŞİTLERİ 75 CL",
+      "price": "219",
+      "discountPrice": "99",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "BİRİCİK GOLD ŞARAP 75 CL",
+      "price": "149",
+      "discountPrice": "79",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "KÜP BEKİLİ ŞARAP ÇEŞİTLERİ 75 CL",
+      "price": "149",
+      "discountPrice": "79",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "ŞİRİNCE ZEUS TATLI ŞARAP 75 CL",
+      "price": "189",
+      "discountPrice": "119",
+      "category": "ŞARAP"
+    },
+    {
+      "name": "EFE GOLD RAKI 100 CL",
+      "price": "879",
+      "discountPrice": "699",
+      "category": "RAKI"
+    },
+    {
+      "name": "EFE GOLD RAKI 70 CL",
+      "price": "649",
+      "discountPrice": "537",
+      "category": "RAKI"
+    },
+    {
+      "name": "SARI ZEYBEK 3 MEŞE 70 CL",
+      "price": "785",
+      "discountPrice": "585",
+      "category": "RAKI"
+    },
+    {
+      "name": "SARI ZEYBEK 3 MEŞE 50 CL",
+      "price": "570",
+      "discountPrice": "425",
+      "category": "RAKI"
+    },
+    {
+      "name": "SARI ZEYBEK 3 MEŞE 35 CL",
+      "price": "435",
+      "discountPrice": "325",
+      "category": "RAKI"
+    },
+    {
+      "name": "SARI ZEYBEK ORIGINAL 70 CL",
+      "price": "745",
+      "discountPrice": "555",
+      "category": "RAKI"
+    },
+    {
+      "name": "SARI ZEYBEK ORIGINAL 50 CL",
+      "price": "539",
+      "discountPrice": "402",
+      "category": "RAKI"
+    },
+    {
+      "name": "SARI ZEYBEK ORIGINAL 35  CL",
+      "price": "409",
+      "discountPrice": "305",
+      "category": "RAKI"
+    },
+    {
+      "name": "SARI ZEYBEK YAŞ ÜZÜM 70 CL",
+      "price": "699",
+      "discountPrice": "525",
+      "category": "RAKI"
+    },
+    {
+      "name": "SARI ZEYBEK YAŞ ÜZÜM 50 CL",
+      "price": "515",
+      "discountPrice": "385",
+      "category": "RAKI"
+    },
+    {
+      "name": "SARI ZEYBEK YAŞ ÜZÜM 35 CL",
+      "price": "389",
+      "discountPrice": "290",
+      "category": "RAKI"
+    },
+    {
+      "name": "YENİ RAKI 100 CL",
+      "price": "739",
+      "discountPrice": "655",
+      "category": "RAKI"
+    },
+    {
+      "name": "YENİ RAKI 70 CL",
+      "price": "529",
+      "discountPrice": "475",
+      "category": "RAKI"
+    },
+    {
+      "name": "YENİ RAKI 50 CL",
+      "price": "399",
+      "discountPrice": "366",
+      "category": "RAKI"
+    },
+    {
+      "name": "YENİ RAKI 35 CL",
+      "price": "299",
+      "discountPrice": "272",
+      "category": "RAKI"
+    },
+    {
+      "name": "ALTIN SERİ 100 CL",
+      "price": "879",
+      "discountPrice": "749",
+      "category": "RAKI"
+    },
+    {
+      "name": "ALTIN SERİ 70 CL",
+      "price": "649",
+      "discountPrice": "550",
+      "category": "RAKI"
+    },
+    {
+      "name": "BEYLERBEYİ GÖBEK 100 CL",
+      "price": "895",
+      "discountPrice": "770",
+      "category": "RAKI"
+    },
+    {
+      "name": "BEYLERBEYİ GÖBEK 70 CL",
+      "price": "695",
+      "discountPrice": "598",
+      "category": "RAKI"
+    },
+    {
+      "name": "EFE TEK İMBİK 100 CL",
+      "price": "919",
+      "discountPrice": "730",
+      "category": "RAKI"
+    },
+    {
+      "name": "EFE TEK İMBİK 70  CL",
+      "price": "677",
+      "discountPrice": "542",
+      "category": "RAKI"
+    },
+    {
+      "name": "EFE GÖBEK 100 CL",
+      "price": "895",
+      "discountPrice": "720",
+      "category": "RAKI"
+    },
+    {
+      "name": "EFE GÖBEK 70 CL",
+      "price": "695",
+      "discountPrice": "559",
+      "category": "RAKI"
+    },
+    {
+      "name": "EFE YAŞ ÜZÜM 100 CL",
+      "price": "813",
+      "discountPrice": "635",
+      "category": "RAKI"
+    },
+    {
+      "name": "EFE YAŞ ÜZÜM 70 CL",
+      "price": "589",
+      "discountPrice": "479",
+      "category": "RAKI"
+    },
+    {
+      "name": "BEYLERBEYİ RAKI 100 CL",
+      "price": "759",
+      "discountPrice": "688",
+      "category": "RAKI"
+    },
+    {
+      "name": "BEYLERBEYİ RAKI 70 CL",
+      "price": "569",
+      "discountPrice": "516",
+      "category": "RAKI"
+    },
+    {
+      "name": "BEYLERBEYİ TERAGOLD 100 CL",
+      "price": "859",
+      "discountPrice": "731",
+      "category": "RAKI"
+    },
+    {
+      "name": "BEYLERBEYİ TERAGOLD 70  CL",
+      "price": "649",
+      "discountPrice": "552",
+      "category": "RAKI"
+    },
+    {
+      "name": "YENİ RAKI YENİ SERİ 100 CL",
+      "price": "799",
+      "discountPrice": "665",
+      "category": "RAKI"
+    },
+    {
+      "name": "YENİ RAKI YENİ SERİ 70 CL",
+      "price": "589",
+      "discountPrice": "495",
+      "category": "RAKI"
+    },
+    {
+      "name": "İZMİR YAŞ ZÜM 50 CL",
+      "price": "399",
+      "discountPrice": "356",
+      "category": "RAKI"
+    },
+    {
+      "name": "İZMİR YAŞ ÜZÜM 35 CL",
+      "price": "289",
+      "discountPrice": "253",
+      "category": "RAKI"
+    },
+    {
+      "name": "İZMİR MAVİ RAKI 100 CL",
+      "price": "689",
+      "discountPrice": "606",
+      "category": "RAKI"
+    },
+    {
+      "name": "İZMİR MAVİ RAKI 70 CL",
+      "price": "509",
+      "discountPrice": "450",
+      "category": "RAKI"
+    },
+    {
+      "name": "İZMİR MAVİ RAKI 50 CL",
+      "price": "389",
+      "discountPrice": "360",
+      "category": "RAKI"
+    },
+    {
+      "name": "İZMİR MAVİ RAKI 35 CL",
+      "price": "279",
+      "discountPrice": "249",
+      "category": "RAKI"
+    },
+    {
+      "name": "STAMBECCO MARASCHINO CHERRY AMARO ",
+      "price": "915",
+      "discountPrice": "685",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "STAMBECCO  TIRAMISU LİKÖR 70 CL",
+      "price": "915",
+      "discountPrice": "685",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "BAILEYS LİKÖR 70 CL",
+      "price": "499",
+      "discountPrice": "425",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "SAFARİ LİKÖR 70 CL",
+      "price": "499",
+      "discountPrice": "435",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "SHERIDANS LİKÖR 70 CL",
+      "price": "499",
+      "discountPrice": "435",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "HOLİDAYS CREMA  LİKÖRÜ 100 CL",
+      "price": "495",
+      "discountPrice": "225",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "HOLİDAYS LİKÖR ÇEŞİTLERİ 100 CL",
+      "price": "445",
+      "discountPrice": "195",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "BACARDI CARTA BLANCA 70 CL",
+      "price": "825",
+      "discountPrice": "595",
+      "category": "RUM"
+    },
+    {
+      "name": "CAPTAIN MORGAN 75 CL",
+      "price": "725",
+      "discountPrice": "505",
+      "category": "RUM"
+    },
+    {
+      "name": "MARTINI BIANCO 75 CL",
+      "price": "649",
+      "discountPrice": "565",
+      "category": "VERMUT "
+    },
+    {
+      "name": "MARTİNİ ROSSO 75 CL",
+      "price": "649",
+      "discountPrice": "565",
+      "category": "VERMUT "
+    },
+    {
+      "name": "MARTİNİ EXTRA DRY 75 CL",
+      "price": "649",
+      "discountPrice": "565",
+      "category": "VERMUT "
+    },
+    {
+      "name": "BOLS BLUE CURACAO 50 CL",
+      "price": "485",
+      "discountPrice": "249",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "BOLS MİNT GREEN 50 CL",
+      "price": "485",
+      "discountPrice": "249",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "JAGERMEISTER 70 CL",
+      "price": "770",
+      "discountPrice": "625",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "JAGERMEISTER 100 CL",
+      "price": "1070",
+      "discountPrice": "865",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "KEGLEVICH ÇİLEK LİKÖR 70 CL",
+      "price": "445",
+      "discountPrice": "360",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "KEGLEVICH ELMA LİKÖR 70 CL",
+      "price": "445",
+      "discountPrice": "360",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "KEGLEVICH KAVUN LİKÖR 70 CL",
+      "price": "445",
+      "discountPrice": "360",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "KEGLEVICH ŞEFTALİ LİKÖR 70 CL",
+      "price": "445",
+      "discountPrice": "360",
+      "category": "LİKÖR"
+    },
+    {
+      "name": "TUBORG GOLD ŞİŞE 50 CL",
+      "price": "44",
+      "discountPrice": "35",
+      "category": "BİRA"
+    },
+    {
+      "name": "EFES EXTRA KUTU 50 CL",
+      "price": "56",
+      "discountPrice": "43.5",
+      "category": "BİRA"
+    },
+    {
+      "name": "MALT KUTU 50 CL",
+      "price": "41",
+      "discountPrice": "30.5",
+      "category": "BİRA"
+    },
+    {
+      "name": "EFES ŞİŞE YENİ 50 CL",
+      "price": "45",
+      "discountPrice": "33",
+      "category": "BİRA"
+    },
+    {
+      "name": "EFES KUTU 50 CL",
+      "price": "44",
+      "discountPrice": "33.75",
+      "category": "BİRA"
+    },
+    {
+      "name": "MALT ŞİŞE 50 CL",
+      "price": "42",
+      "discountPrice": "30",
+      "category": "BİRA"
+    },
+    {
+      "name": "TOBORG GOLD KUTU 50 CL",
+      "price": "44",
+      "discountPrice": "36.5",
+      "category": "BİRA"
+    },
+    {
+      "name": "CARLSBERGKUTU 50 CL",
+      "price": "46",
+      "discountPrice": "38",
+      "category": "BİRA"
+    },
+    {
+      "name": "CARLSBERG ŞİŞE 50 CL",
+      "price": "46",
+      "discountPrice": "37",
+      "category": "BİRA"
+    },
+    {
+      "name": "BOMANTİ FİLTRESİZ ŞİŞE 50 CL",
+      "price": "51",
+      "discountPrice": "39.5",
+      "category": "BİRA"
+    },
+    {
+      "name": "EFES ÖZEL SERİ ŞİŞE 50 CL",
+      "price": "47",
+      "discountPrice": "37.5",
+      "category": "BİRA"
+    },
+    {
+      "name": "EFES BECKS ŞİŞE 50 CL",
+      "price": "47",
+      "discountPrice": "37.5",
+      "category": "BİRA"
+    },
+    {
+      "name": "MİLLER ŞİŞE 50 CL",
+      "price": "52",
+      "discountPrice": "40.5",
+      "category": "BİRA"
+    },
+    {
+      "name": "MİLLER ŞİŞE 33 CL",
+      "price": "43",
+      "discountPrice": "36",
+      "category": "BİRA"
+    },
+    {
+      "name": "BUD ŞİŞE 50 CL",
+      "price": "52",
+      "discountPrice": "41.5",
+      "category": "BİRA"
+    },
+    {
+      "name": "EFES ÖZEL SERİ KUTU 50 CL",
+      "price": "46",
+      "discountPrice": "38",
+      "category": "BİRA"
+    },
+    {
+      "name": "EFES RESERVE ŞİŞE 50 CL",
+      "price": "47",
+      "discountPrice": "36.5",
+      "category": "BİRA"
+    },
+    {
+      "name": "BELFAST ŞİŞE 50 CL",
+      "price": "47",
+      "discountPrice": "35.5",
+      "category": "BİRA"
+    },
+    {
+      "name": "BREMEN 50 CL KUTU ",
+      "price": "37",
+      "discountPrice": "27.75",
+      "category": "BİRA",
+      "ARTI DEPOTİZO": ""
+    }
+  ]
+}
